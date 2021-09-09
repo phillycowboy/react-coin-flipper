@@ -1,10 +1,11 @@
 // import logo from './logo.svg';
 import './App.css';
+import CoinContainer from './CoinContainer';
 
 function App() {
   return (
     <div className="App">
-      <h1>HEY THERE!</h1>
+      <CoinContainer />
     </div>
   );
 }
